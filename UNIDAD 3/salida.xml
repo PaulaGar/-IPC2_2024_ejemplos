@@ -1,0 +1,15 @@
+<matrices>
+	<valor>Valor inicial</valor>
+	<valor2 AA="3">Valor inicial numero 2</valor2>
+	<matriz>
+		<dato x="0" y="5">1</dato>
+		<dato x="1" y="5">2</dato>
+		<dato x="2" y="5">3</dato>
+		<dato x="3" y="5">4</dato>
+		<dato x="4" y="5">5</dato>
+		<dato x="5" y="5">6</dato>
+		<dato x="6" y="5">7</dato>
+		<dato x="7" y="5">8</dato>
+		<dato x="8" y="5">9</dato>
+	</matriz>
+</matrices>
