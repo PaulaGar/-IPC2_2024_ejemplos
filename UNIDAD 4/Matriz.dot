@@ -1,0 +1,6 @@
+digraph G {layout=dot
+labelloc = "t"edge [weight=1000 style=dashed color=dimgrey]
+rank=same {X10->X20->X30->X40->X50->X60->X70->"FIN20"
+}rank=same {X1->X2->X3->X4->X5->X6->X7->"FIN2"
+}rank=same {X11->X22->X33->X44->X55->X66->X77->"FIN22"
+}}
