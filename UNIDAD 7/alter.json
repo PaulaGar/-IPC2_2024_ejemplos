@@ -1,0 +1,8 @@
+{
+    "pisos Guatemala":
+    [
+    {"piso":"kitchen","R":5,"C":4,"F":6,"S":2,"patrones":[{"codigo":"","patron":""},{"codigo":"","patron":""},{"codigo":"","patron":""}]},
+    {"piso":"room","R":5,"C":4,"F":6,"S":2,"patrones":[{"codigo":"","patron":""},{"codigo":"","patron":""},{"codigo":"","patron":""}]}
+    
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "pisos Guatemala":{
+        "piso":{
+            "nombre":"kitchen", 
+            "R":5,
+            "C":4,
+            "F":6,
+            "S":2,
+            "Patrones":{
+                "patron":[{"codigo":"A","content":"BNBNN"},{"codigo":"B","content":"BNNBNN"},{"codigo":"","content":""}]
+            }
+        },
+    
+        "piso2":{
+            "nombre":"room", 
+            "R":5,
+            "C":4,
+            "F":6,
+            "S":2,
+            "patrones":[{"codigo":"","patron":""},{"codigo":"","patron":""},{"codigo":"","patron":""}]
+            
+        }
+    }
+}

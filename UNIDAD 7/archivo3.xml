@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<pisosGuatemala>
+    <piso nombre="kitchen">
+        <R>5</R>
+        <C>4</C>
+        <F>6</F>
+        <S>2</S>
+        <patrones>
+            <patron codigo="cod41">BBBBNNNBBNNBBBNBBBNB</patron>
+            <patron codigo="cod42">BBBBNNNBBBNNNBBBBBNB</patron>
+            <patron codigo="cod43">NNBBNNBBNNBBNNBBBNBB</patron>
+        </patrones>
+    </piso>
+    <piso nombre="livingroom">
+        <R>9</R>
+        <C>1</C>
+        <F>323</F>
+        <S>155</S>
+        <patrones>
+            <patron codigo="C20">NBBBNNBBN</patron>
+            <patron codigo="C30">NBBBNNBNN</patron>
+            <patron codigo="C40">NBBBNBNBN</patron>
+            <patron codigo="C50">BNBNBNBBN</patron>
+        </patrones>
+    </piso>
+    <piso nombre="room">
+        <R>5</R>
+        <C>6</C>
+        <F>5</F>
+        <S>4</S>
+        <patrones>
+            <patron codigo="cod41">BBBNNBBBNNBBBNNBBBNNBBBNNBBBNN</patron>
+            <patron codigo="cod42">BBBBNNNBBBBBNNNBBBBNNNBBBBNNNB</patron>
+            <patron codigo="cod43">BNBNBBNNBBNNBNBNBBNNBBNNNBBBNN</patron>
+        </patrones>
+    </piso>
+    <piso nombre="aisle">
+        <R>15</R>
+        <C>4</C>
+        <F>20</F>
+        <S>10</S>
+        <patrones>
+            <patron codigo="cod41">BBBBBBNNNNNNNNNNNNNNNNNNNNNBBBBNNNNNNNNNBBBBBBBBBBBBNNNNBBNB</patron>
+            <patron codigo="cod42">BBNNNNNNBBBNNNNNNBBBBBBBBBBNNNNNNNBBBNNNBBBBNNBBBNBBNBNNBBNB</patron>
+            <patron codigo="cod43">BBBBBBBBBBBBBBNNNNNBBBBBBBBBNNNBBBBBNNNNBNNNNNBBNBBBNNBNBBNB</patron>
+        </patrones>
+    </piso>
+</pisosGuatemala>
