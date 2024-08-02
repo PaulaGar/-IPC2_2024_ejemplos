@@ -6,8 +6,13 @@ class persona:
 
     def get_contrasenia(self):
         return self.__contrasenia
+    #Para poder editar y obtener variables privadas se usan los famosos getters y setters
     
 paula = persona("Paula","123")
 print(paula.nombre)
 #print(paula.__contrasenia) # ESTE CODIGO GENERA ERROR PORQUE CONTRASENIA ES UN ATRIBUTO PRIVADO
 print(paula.get_contrasenia())
+
+#__nombre:
+#private void nombre{}
+#
