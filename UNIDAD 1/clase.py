@@ -27,7 +27,7 @@ class Carro:
 #SE DECLARA UN OBJETO DE TIPO CARRO
 car = Carro("Paula")
 car.imprimir_colores()
-car.asignar_color("blanco")
+#car.asignar_color("blanco")
 car.imprimir_colores()
 
 car.no_hace_nada()

@@ -6,12 +6,15 @@ char = '2'
 texto = "Hola"
 lista = [1,2,3,4,5]
 operacion = 5*(numero+1)
+#operacion = 2
 Nulo = None
+#Null 
 
-print(str(numero)+char)
-print(numero+int(char))
+print(str(numero)+char) #concatenar
+print(numero+int(char)) #operar
 print( operacion*char)
 print(type(lista))
+print(lista)
 
 # EJECUCION CONDICIONAL --------------------------------
 
@@ -52,7 +55,7 @@ funcion1()
 texto_f2 = "esta es la funcion numero 2"
 funcion2(texto_f2) 
 
-#LLAMADOD E FUNCIONES DE OTROS ARCHIVOS
+#LLAMADO DE FUNCIONES DE OTROS ARCHIVOS
 import afuera
 #procedimiento
 afuera.funcion3(5)
@@ -69,10 +72,12 @@ while aux1 <5:
 
 for i in lista:
     print(i)
-
-for j in texto[1:3]:
+    
+print("-----------")
+for j in texto[2:4]:
     print(j)
 
-for k in range(5):
+print("-----------")
+for k in range(8):
     print(k)
 
